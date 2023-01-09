@@ -1,5 +1,5 @@
 {
-    "name": "react/http",
+    "name": "tankonyako/reactphp-http-server",
     "description": "Event-driven, streaming plaintext HTTP and secure HTTPS server for ReactPHP",
     "keywords": ["event-driven", "streaming", "HTTP", "HTTPS", "server", "ReactPHP"],
     "license": "MIT",
